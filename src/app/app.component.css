@@ -1,0 +1,15 @@
+
+
+.app-wrapper{
+  min-height: 100vh;
+  width: 100%;
+  background: white;
+}
+
+.app-wrapper .main-content{
+  width: 100%;
+  height: 100vh;
+  padding: 60px 20px;
+  background: white;
+  
+}
